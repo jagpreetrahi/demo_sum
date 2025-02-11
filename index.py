@@ -1,9 +1,9 @@
 def sum(a , b):
-    result = a + b
+    result = a - b
     return result
 
 
 a = input("Enter the value : ")
 b  = input("Enter the valu1 :")
-output = sum( a, b)
+output = sum( b,  c)
 print(output)
