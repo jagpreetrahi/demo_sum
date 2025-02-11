@@ -6,5 +6,5 @@ function sum(a , b){
 
 
 
-let result = sum(10, 20);
+let result = sum(20, 20);
 console.log(result);
